@@ -200,4 +200,131 @@ header {
     gap: 55px;
 }
 
+.TRI {
+    width: auto;
+    height: 563px;
+    display: flex;
+    justify-content: center;
+    gap: 170px;
+    margin-top: 70px;
+}
+
+.text2 {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.text2 > p {
+    font-family: "Plus Jakarta Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.text2 > a {
+    text-decoration: none;
+}
+
+.button2 {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    background-color: black;
+}
+
+.button2 > p{
+    font-family: "Syne";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: white;
+}
+
+.min > p {
+    font-family: "Plus Jakarta Sans";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.64px;
+    letter-spacing: 0.2em;
+}
+
+.min > h1 {
+    font-family: "Syne";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+.kartochki {
+    display: flex;
+    gap: 65px;
+    align-items: center;
+}
+
+.mini {
+    display: flex;
+    gap: 65px;
+    flex-direction: column;
+    align-items:center;
+}
+
+.box {
+    display: flex;
+    gap: 21px;
+}
+
+
+.box > img{
+    margin-top: 8px;
+}
+
+.boxMini {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.boxMini > h1 {
+    font-family: "Syne";
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 42px;
+}
+
+.boxMini > p {
+    font-family: "Plus Jakarta Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+}
+
+.button3 {
+    display: flex;
+    width: 115px;
+    height: 18px;
+    gap: 6px;
+    align-items: center;
+    justify-content: center;
+}
+
+.button3 > a {
+    text-decoration: none;
+}
+
+.button3 > a > p {
+    font-family: "Syne";
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 18.2px;
+    color: black;
+}
+
+.hr3 {
+    width: 249px;
+}
 
