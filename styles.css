@@ -328,3 +328,38 @@ header {
     width: 249px;
 }
 
+.CHETIRI {
+    display: flex;
+    justify-content: center;
+    gap: 65px;
+    margin-top: 80px;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+}
+
+.button4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    width: 240px;
+    height: 50px;
+    background-color: black;
+}
+
+.button4 > p {
+    font-family: "Syne";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: white;
+}
+
+.x {
+    margin-top: 240px;
+    margin-left: -31px;
+}
