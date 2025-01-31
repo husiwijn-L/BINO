@@ -149,7 +149,12 @@ header {
     align-items: center;
     gap: 7px;
     transform: rotate(90deg);
-    margin-top: 220px;
+    margin-top: 215px;
+    font-family: "Syne";
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 18.2px;
+    letter-spacing: 0.1em;
 }
 
 .SK > img {
@@ -165,5 +170,34 @@ header {
     margin-top: 25px;
 }
 
+.DVA {
+    width: auto;
+    margin-top: 52px;
+}
+
+.kompanii {
+    width: auto;
+    height: 241px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.kompanii > h2 {
+    font-family: "Syne";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25.6px;
+}
+
+.hr1 {
+    transform: rotate(90deg);
+}
+
+.logi {
+    display: flex;
+    gap: 55px;
+}
 
 
