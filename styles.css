@@ -363,3 +363,31 @@ header {
     margin-top: 240px;
     margin-left: -31px;
 }
+
+.FIVE {
+    width: auto;
+    height: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+
+.text3 {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    justify-content: center;
+}
+
+.minText {
+    font-family: "Plus Jakarta Sans";
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 30.8px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
