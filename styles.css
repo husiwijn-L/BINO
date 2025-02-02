@@ -583,3 +583,20 @@ header {
     line-height: 36px;
     text-align: left;
 }
+
+.get {
+    width: auto;
+    height: 181px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    margin-top: 20px;
+}
+
+.get > h1 {
+    font-family: "Syne";
+    font-size: 100px;
+    font-weight: 500;
+    line-height: 120px;
+}
