@@ -391,3 +391,49 @@ header {
     flex-direction: column;
     gap: 10px;
 }
+
+.SIX {
+    width: auto;
+    height: 622px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    margin-left: 476px;
+}
+
+.text4 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.minText1 {
+    display: flex;
+    gap: 28px;
+}
+
+.minText1 > img {
+    margin-top: 6px;
+}
+
+.mini1 {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.mini1 > h1 {
+    font-family: "Syne";
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 42px;
+    text-transform: uppercase;
+}
+
+.mini1 > p {
+    font-family: "Plus Jakarta Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
